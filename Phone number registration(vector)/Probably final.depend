@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1540117752 source:d:\university thing\courses\cse225(sas3.8)\assignment 1\code\probably final\name_and_others.cpp
+	<vector>
+	<string>
+	<iostream>
+	"Name_and_Others.h"
+
+1540117752 d:\university thing\courses\cse225(sas3.8)\assignment 1\code\probably final\name_and_others.h
+	<vector>
+	<string>
+	<iostream>
+
+1540118119 source:d:\university thing\courses\cse225(sas3.8)\assignment 1\code\probably final\phone_number_registration.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<vector>
+	"Phone_Number_Registration.h"
+
+1540119096 d:\university thing\courses\cse225(sas3.8)\assignment 1\code\probably final\phone_number_registration.h
+	<vector>
+	<string>
+	<iostream>
+
+1540117106 source:d:\university thing\courses\cse225(sas3.8)\assignment 1\code\probably final\national_id.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<vector>
+	"National_ID.h"
+
+1540116834 d:\university thing\courses\cse225(sas3.8)\assignment 1\code\probably final\national_id.h
+	<iostream>
+
+1540117813 source:d:\university thing\courses\cse225(sas3.8)\assignment 1\code\probably final\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<vector>
+	"Phone_Number_Registration.h"
+	"National_ID.h"
+	"Name_and_Others.h"
+
+1540134265 source:d:\university thing\courses\cse225(sas3.8)\assignment 1\code\1721221642_zubair_azim_miazi\assignment_code\national_id.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<vector>
+	"Phone_Number_Registration.h"
+	"National_ID.h"
+	"Name_and_Others.h"
+
+1540134433 d:\university thing\courses\cse225(sas3.8)\assignment 1\code\1721221642_zubair_azim_miazi\assignment_code\national_id.h
+	<iostream>
+
+1540135074 source:d:\university thing\courses\cse225(sas3.8)\assignment 1\code\1721221642_zubair_azim_miazi\assignment_code\name_and_others.cpp
+	<vector>
+	<string>
+	<iostream>
+	"Name_and_Others.h"
+
+1540134727 d:\university thing\courses\cse225(sas3.8)\assignment 1\code\1721221642_zubair_azim_miazi\assignment_code\name_and_others.h
+	<vector>
+	<string>
+	<iostream>
+
+1540134355 d:\university thing\courses\cse225(sas3.8)\assignment 1\code\1721221642_zubair_azim_miazi\assignment_code\phone_number_registration.h
+	<vector>
+	<string>
+	<iostream>
+
+1540134626 source:d:\university thing\courses\cse225(sas3.8)\assignment 1\code\1721221642_zubair_azim_miazi\assignment_code\phone_number_registration.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<vector>
+	"Phone_Number_Registration.h"
+	"National_ID.h"
+	"Name_and_Others.h"
+
+1540135095 source:d:\university thing\courses\cse225(sas3.8)\assignment 1\code\1721221642_zubair_azim_miazi\assignment_code\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<vector>
+	"Phone_Number_Registration.h"
+	"National_ID.h"
+	"Name_and_Others.h"
+
