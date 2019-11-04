@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1539943057 source:d:\university thing\courses\cse225(sas3.8)\assignment 1\code\cse225\numbe_input.cpp
+	"Numbe_input.h"
+	<iostream>
+	<cstdlib>
+
+1539941591 d:\university thing\courses\cse225(sas3.8)\assignment 1\code\cse225\numbe_input.h
+
+1539943069 source:d:\university thing\courses\cse225(sas3.8)\assignment 1\code\cse225\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"Numbe_input.h"
+
+1539943057 d:\university thing\courses\cse225(sas3.8)\assignment 1\code\cse225\numbe_input.cpp
+	"Numbe_input.h"
+	<iostream>
+	<cstdlib>
+
