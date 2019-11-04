@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1540059052 source:d:\university thing\courses\cse225(sas3.8)\assignment 1\code\vector\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<vector>
+	"vecwork.h"
+	"National ID.h"
+
+1540059116 d:\university thing\courses\cse225(sas3.8)\assignment 1\code\vector\vecwork.h
+	<vector>
+	<string>
+	<iostream>
+
+1540059220 d:\university thing\courses\cse225(sas3.8)\assignment 1\code\vector\national id.h
+	<iostream>
+
+1540059356 source:d:\university thing\courses\cse225(sas3.8)\assignment 1\code\vector\national id.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<vector>
+	"National ID.h"
+
