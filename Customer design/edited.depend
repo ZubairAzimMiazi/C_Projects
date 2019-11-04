@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1539951492 source:d:\university thing\courses\cse225(sas3.8)\assignment 1\code\edited\number_input.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Number_input.h"
+	"Customer_design.h"
+
+1539944037 d:\university thing\courses\cse225(sas3.8)\assignment 1\code\edited\number_input.h
+	<iostream>
+
+1539951021 source:d:\university thing\courses\cse225(sas3.8)\assignment 1\code\edited\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Number_input.h"
+	"Customer_design.h"
+	<fstream>
+
+1539941860 d:\university thing\courses\cse225(sas3.8)\assignment 1\code\edited\number_input.cpp
+	"Number_input.h"
+	<iostream>
+	<cstdlib>
+	<string>
+
+1539946955 d:\university thing\courses\cse225(sas3.8)\assignment 1\code\edited\customer_design.h
+
+1539950954 source:d:\university thing\courses\cse225(sas3.8)\assignment 1\code\edited\customer_design.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Number_input.h"
+	"Customer_design.h"
+
